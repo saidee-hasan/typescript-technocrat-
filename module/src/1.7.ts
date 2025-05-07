@@ -5,4 +5,4 @@ const boosList={
     ...boos1,
     ...boos2
 }
-console.log(boosList);
+console.log(boosList)
