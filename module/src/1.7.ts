@@ -6,3 +6,7 @@ const boosList={
     ...boos2
 }
 console.log(boosList)
+
+const geetFriends=()=>{
+
+}
